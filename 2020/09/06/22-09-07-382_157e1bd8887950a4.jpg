@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="我們幫助每個階段的開發者獲得職涯上的成長，讓開發者知識交流更加緊密連結。一起分享新技術、新想法和新的程式設計開發技巧給和你一樣熱愛學習的開發者！">
+    <link rel="icon" href="https://static.coderbridge.com/img/logo-500-500.png">
+    <link rel="shortcut icon" type="image/x-icon" href="https://static.coderbridge.com/img/logo-500-500.png" />
+    <meta name="author" content="CoderBridge">
+    <title>Page Not Found - CoderBridge 開發者知識內容創作分享平台</title>
+    <!-- og tag -->
+    <meta property="og:title" content="CoderBridge 開發者知識內容創作分享平台" />
+    <meta property="og:description"
+        content="我們幫助每個階段的開發者獲得職涯上的成長，讓開發者知識交流更加緊密連結。一起分享新技術、新想法和新的程式設計開發技巧給和你一樣熱愛學習的開發者！" />
+    <meta property="og:image" content="https://static.coderbridge.com/img/logo-500-500.png" />
+    <meta property="og:url" content="https://www.coderbridge.io/not-found" />
+    <meta property="og:type" content="website" />
+    <!-- start Mixpanel --><script type="text/javascript">(function(c,a){if(!a.__SV){var b=window;try{var d,m,j,k=b.location,f=k.hash;d=function(a,b){return(m=a.match(RegExp(b+"=([^&]*)")))?m[1]:null};f&&d(f,"state")&&(j=JSON.parse(decodeURIComponent(d(f,"state"))),"mpeditor"===j.action&&(b.sessionStorage.setItem("_mpcehash",f),history.replaceState(j.desiredHash||"",c.title,k.pathname+k.search)))}catch(n){}var l,h;window.mixpanel=a;a._i=[];a.init=function(b,d,g){function c(b,i){var a=i.split(".");2==a.length&&(b=b[a[0]],i=a[1]);b[i]=function(){b.push([i].concat(Array.prototype.slice.call(arguments,
+0)))}}var e=a;"undefined"!==typeof g?e=a[g]=[]:g="mixpanel";e.people=e.people||[];e.toString=function(b){var a="mixpanel";"mixpanel"!==g&&(a+="."+g);b||(a+=" (stub)");return a};e.people.toString=function(){return e.toString(1)+".people (stub)"};l="disable time_event track track_pageview track_links track_forms track_with_groups add_group set_group remove_group register register_once alias unregister identify name_tag set_config reset opt_in_tracking opt_out_tracking has_opted_in_tracking has_opted_out_tracking clear_opt_in_out_tracking people.set people.set_once people.unset people.increment people.append people.union people.track_charge people.clear_charges people.delete_user people.remove".split(" ");
+for(h=0;h<l.length;h++)c(e,l[h]);var f="set set_once union unset remove delete".split(" ");e.get_group=function(){function a(c){b[c]=function(){call2_args=arguments;call2=[c].concat(Array.prototype.slice.call(call2_args,0));e.push([d,call2])}}for(var b={},d=["get_group"].concat(Array.prototype.slice.call(arguments,0)),c=0;c<f.length;c++)a(f[c]);return b};a._i.push([b,d,g])};a.__SV=1.2;b=c.createElement("script");b.type="text/javascript";b.async=!0;b.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?
+MIXPANEL_CUSTOM_LIB_URL:"file:"===c.location.protocol&&"//cdn4.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//)?"https://cdn4.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn4.mxpnl.com/libs/mixpanel-2-latest.min.js";d=c.getElementsByTagName("script")[0];d.parentNode.insertBefore(b,d)}})(document,window.mixpanel||[]);
+</script><!-- end Mixpanel -->
+<script>
+
+mixpanel.init("28f4ca2e254c17a037b068a4806287a3");
+
+
+mixpanel.track_links("#apply-author-link", "click apply author link", {
+    "referrer": document.referrer
+});
+mixpanel.track('view page', {
+    'title': document.title,
+    'referrer': document.referrer,
+});
+</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link href="//www.coderbridge.io/static/css/main.css" rel="stylesheet">
+    <style>
+        * {
+            line-height: 1.2;
+            margin: 0;
+        }
+
+        html {
+            color: #888;
+            display: table;
+            font-family: sans-serif;
+            height: 100%;
+            text-align: center;
+            width: 100%;
+        }
+
+        body {
+            display: table-cell;
+            vertical-align: middle;
+            margin: 2em auto;
+        }
+
+        h1 {
+            color: #555;
+            font-size: 2em;
+            font-weight: 400;
+        }
+
+        p {
+            margin: 0 auto;
+            width: 280px;
+        }
+
+        @media only screen and (max-width: 280px) {
+
+            body,
+            p {
+                width: 95%;
+            }
+
+            h1 {
+                font-size: 1.5em;
+                margin: 0 0 0.3em;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container text-align-center">
+        <h1>Oops, 你來到不該來的地方</h1>
+        <br>
+        <p>嘿, 這邊很危險，回家好嗎？</p>
+        <br>
+        <div>
+            
+            <a href="//www.coderbridge.com"><button class="btn bnt-lg btn-outline-primary">帶我回 CoderBridge
+                    首頁</button></a>
+        </div>
+    </div>
+</body>
+
+</html>
+<!-- IE needs 512+ bytes: https://blogs.msdn.microsoft.com/ieinternals/2010/08/18/friendly-http-error-pages/ -->
